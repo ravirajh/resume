@@ -1,19 +1,10 @@
 # profile
-Profile
 RAVIRAJ HALARNEKAR	
- Phone: +91-8805991046 | ravirajrh@outlook.com
+Phone: +91-8805991046 | ravirajrh@outlook.com
 Bengaluru, Karnataka
 
-
-
 PROFILE SUMMARY	
-
-
 Network Engineer with experience in delivering technical support, managing network operations, and maintaining enterprise-wide area networks.
-
-CCNA Certified with experience in Managing Cisco Viptela SD WAN, Cisco ISE,Cisco WLC and Fortigate Firewalls, is looking for job opportunities in R&S and SD WAN domain.
-
-
 
 TECHNICAL SKILLS	
 Routers : Cisco ISR 11004G, Cisco ISR 4431, Cisco Viptela V edge 100,2000(SDWAN), Ubiquiti Edge 4
@@ -23,41 +14,28 @@ Routing Protocols : Static, Default Routing, knowledge of EIGRP, OSPF , BGP (lim
 Switching Technologies: VLAN, Trunking, VTP,STP,RSTP, Ether channel
 Good understanding of OSI Model, TCP/IP protocol suite (IP, ARP, ICMP, FTP ,DHCP, TCP, UDP, HTTP, TELNET, PING, DNS, NAT, PAT.
 Additional Technologies: TACACS+,RADIUS, ,802.1x, LDAP, Active Directories, VPN
-Tools : Whatsup Gold, Force Scout NAC, GNS3, Vmware Workstation, Cisco Packet Tracer, Cisco TFTP Server,Putty, Nmap,wireshark, MS Office Suite, Orion Solar wind, Nimsoft , Remedy Ticketing tool
-Web Technologies: html, JavaScript, CSS, Bootstrap
+Tools : Whatsup Gold, Force Scout NAC, GNS3, Vmware Workstation, Cisco Packet Tracer, Cisco TFTP Server,Putty, Nmap,wireshark, MS 
 Programming:  Basic programming knowledge of Python & SQL
 OS : Linux (Debian 9x, 10x ), MAC OS , Windows 10, Windows  Server 2016
 
 
 CERTIFICATIONS	
-
-CCNA Routing and Switching  200-125  |  Validation ID: 250105217
-NSE 1
-Linux For Network Engineers - Udemy.com
+CCNA
+CCNP ENCOR 250-410
 
 AWARDS
-
 Best Performer CSD For the Year 2022
-
-
 
 EXPERIENCE	
 
-
-
-
 ORACLE CERNER - Benguluru, Karnataka
-
 Network Engineer -    Dec 2022– Present
-
 Working as a Network Engineer as a part of Cermer's  NOC Team managing Data Centers at various US location.
 Upgrade Cisco devices including L3 switches, Firewalls and WLC.
 Upgrade Palo Alto FW.
 Provide ON-CALL support 24x7 to 15 DCs.
 Maintain, manage and upgrade Network devices ro meet compliance.
 Provide support to remote site team and user as and when required.
-
-
 
 ALLIED DIGITAL SERVICES LTD – Vedanta IOB Data Center - Panaji, Goa
 Network Engineer - L2    Dec 2021– Dec 2022
@@ -81,7 +59,6 @@ Perform/Review Network Device Hardening
 Configuring & troubleshooting wireless Guest, Sponsor, Self-registration and hot spot portal, profiling & BYOD.
 Maintain Inventory of Network Assets and Take Monthly backups of all IOB Network and Security Devices.
 
-
 FAHRENHEIT HOTELS AND RESORTS – Calangute - Baga Road, Goa
 IT Manager 	Jan 2017– Nov 2021
 Lead the IT department’s operational and strategic planning, including fostering innovation, planning projects and organising and negotiating the allocation of resources.
@@ -101,12 +78,7 @@ Creation/Management of Users and assigning appropriate Responsibilities in Oracl
 Registering Concurrent Programs and Monitoring Concurrent Managers and Services.
 Provide End User Support.
 
-
-
-
-
 EDUCATION	
-
 Bachelor of Engineering in Computer Engineering	2010-2014
        Padre Conceicao College of Engineering -     Verna Goa (Goa University)
 

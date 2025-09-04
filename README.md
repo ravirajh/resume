@@ -67,7 +67,7 @@ Network Engineer with hands-on experience in technical support, network operatio
 ---
 
 # Fahrenheit Hotels and Resorts – Calangute, Goa  
-**IT Manager** | Jan 2017 – Nov 2021  
+**Network System Engineer** | Jan 2017 – Nov 2021  
 - Led IT operations, project planning, and resource allocation for hospitality operations.  
 - Oversaw deployment, monitoring, and maintenance of IT infrastructure (servers, networks, ERP, and telecom).  
 - Conducted ERP training sessions and supported hotel operations (bookings, billing, inventory).  

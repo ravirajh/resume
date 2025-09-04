@@ -1,4 +1,4 @@
-# Network Enggineer
+# Network Engineer
 RAVIRAJ HALARNEKAR	
 Phone: +91-8805991046 | ravirajrh@outlook.com
 Bengaluru, Karnataka

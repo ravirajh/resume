@@ -1,7 +1,7 @@
 # Network Engineer
 
 **Raviraj Halarnekar**  
-📞 +91-8805991046 | +91-9168096136
+📞 +91-0000000000 | +91-XXXXXXXXXX
 ✉️ ravirajrh@outlook.com  
 📍 Bengaluru, Karnataka  
 

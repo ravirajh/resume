@@ -1,18 +1,17 @@
 # Network Engineer
 
 **Raviraj Halarnekar**  
-📞 +91-0000000000 | +91-XXXXXXXXXX
-✉️ ravirajrh@outlook.com  
+📞 +91-XXXXXXXXXXX | ✉️ ravirajrh@outlook.com  
 📍 Bengaluru, Karnataka  
 
 ---
 
-## Profile Summary
+# Profile Summary
 Network Engineer with hands-on experience in technical support, network operations, and enterprise-wide infrastructure management. Skilled in configuring, maintaining, and upgrading routers, switches, firewalls, and wireless controllers, with a strong understanding of routing, switching, and security protocols.
 
 ---
 
-## Technical Skills
+# Technical Skills
 - **Routers:** Cisco ISR 1100 4G, Cisco ISR 4431, Cisco Viptela VEdge 100/2000 (SD-WAN), Ubiquiti Edge 4  
 - **Switches:** Cisco Catalyst 9500-16X, Catalyst 9300-24T, Catalyst 3650, Catalyst 2960, Cisco SG300, 4500 Series, Nexus Series  
 - **Networking Devices:** Cisco ISE (VM-ISE-2.7), FortiGate 600E/100F, Cisco WLC 5520, FortiSandbox 1000F, Fortinet EMS, Cisco FMC, Palo Alto NGFW  
@@ -26,20 +25,20 @@ Network Engineer with hands-on experience in technical support, network operatio
 
 ---
 
-## Certifications
+# Certifications
 - **CCNA** – Cisco Certified Network Associate  
 - **CCNP ENCOR (350-401)** – Cisco Certified Network Professional  
 
 ---
 
-## Awards
+# Awards
 - **Best Performer – CSD (2022)**  
 
 ---
 
-## Professional Experience  
+# Professional Experience  
 
-### Oracle Cerner – Bengaluru, Karnataka  
+# Oracle Cerner – Bengaluru, Karnataka  
 **Network Engineer** | Dec 2022 – Present  
 - Manage and support data center networks across 15 U.S. locations as part of Cerner’s NOC team.  
 - Perform upgrades on Cisco L3 switches, firewalls, and wireless LAN controllers.  
@@ -49,7 +48,7 @@ Network Engineer with hands-on experience in technical support, network operatio
 
 ---
 
-### Allied Digital Services Ltd (Vedanta IOB Data Center) – Panaji, Goa  
+# Allied Digital Services Ltd (Vedanta IOB Data Center) – Panaji, Goa  
 **Network Engineer – L2** | Dec 2021 – Dec 2022  
 - Monitored and managed WAN connectivity for 10+ Vedanta Iron Ore Business (IOB) sites.  
 - Administered **Cisco SD-WAN (Viptela)** via vManage for edge device configuration.  
@@ -67,7 +66,7 @@ Network Engineer with hands-on experience in technical support, network operatio
 
 ---
 
-### Fahrenheit Hotels and Resorts – Calangute, Goa  
+# Fahrenheit Hotels and Resorts – Calangute, Goa  
 **IT Manager** | Jan 2017 – Nov 2021  
 - Led IT operations, project planning, and resource allocation for hospitality operations.  
 - Oversaw deployment, monitoring, and maintenance of IT infrastructure (servers, networks, ERP, and telecom).  
@@ -79,7 +78,7 @@ Network Engineer with hands-on experience in technical support, network operatio
 
 ---
 
-### Smartlink Network Systems Ltd – Verna, Goa  
+# Smartlink Network Systems Ltd – Verna, Goa  
 **Apprentice Engineer** | Jan 2015 – Apr 2016  
 - Performed daily IBM Blade Centre (AIX 6.3) backups.  
 - Applied server patches and managed Oracle ERP R12 user roles.  
@@ -88,7 +87,7 @@ Network Engineer with hands-on experience in technical support, network operatio
 
 ---
 
-## Education  
+# Education  
 - **Bachelor of Engineering (Computer Engineering)** | 2010 – 2014  
   Padre Conceição College of Engineering, Verna, Goa – Goa University  
 - **Diploma in Computer Engineering** | 2007 – 2010  

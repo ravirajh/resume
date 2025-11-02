@@ -88,9 +88,9 @@ Network Engineer with hands-on experience in technical support, network operatio
 ---
 
 # Education  
-- **Bachelor of Engineering (Computer Engineering)** | 2010 – 2014  
+- **Bachelor of Engineering (Computer Engineering)** 
   Padre Conceição College of Engineering, Verna, Goa – Goa University  
-- **Diploma in Computer Engineering** | 2007 – 2010  
+- **Diploma in Computer Engineering** 
   Agnel Polytechnic, Verna, Goa – Board of Technical Education  
 
 ---
